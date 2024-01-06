@@ -5,7 +5,7 @@ body {
   font-family: 'Nunito', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #6a5be2;
+  background: linear-gradient(to bottom right, blue, pink);;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -13,7 +13,7 @@ body {
 }
 
 .App {
-  width: 500px;
+  width: 50vh;
   border-radius: 30px;
   padding: 40px;
   background-color: #fff;
